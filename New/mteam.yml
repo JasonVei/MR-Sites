@@ -3,7 +3,7 @@ id: mteam
 name: 馒头
 domain: https://kp.m-team.cc/
 encoding: UTF-8
-config_url: https://ghproxy.com/https://raw.githubusercontent.com/htnanako/movie-robot-public/main/app/sites/mteam.yml
+config_url: https://ghproxy.com/https://raw.githubusercontent.com/JasonVei/MR-Sites/main/New/mteam.yml
 
 login:
   test:
